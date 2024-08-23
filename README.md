@@ -1,4 +1,4 @@
-## Hi there 👋
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/frankleng?cardType=level-alternate&theme=github-dark&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--
 **frankleng/frankleng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
